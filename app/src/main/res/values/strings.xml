@@ -2,4 +2,6 @@
     <string name="app_name">Message App</string>
     <string name="image_description_this_is_the_splash_screen_icon">this is the splash screen icon</string>
     <string name="text_message">Text Message</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Log In</string>
 </resources>

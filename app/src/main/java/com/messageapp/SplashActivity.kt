@@ -48,7 +48,7 @@ class SplashActivity : ComponentActivity() {
     private fun SplashScreen() {
         LaunchedEffect(key1 = true) {
             delay(2000)
-            startActivity(Intent(this@SplashActivity, MainActivity::class.java))
+            startActivity(Intent(this@SplashActivity, LoginActivity::class.java))
         }
         Box(
             modifier = Modifier
